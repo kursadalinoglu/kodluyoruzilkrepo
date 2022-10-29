@@ -13,5 +13,3 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitimind
 
 ```
 git clone https://github.com/kursadalinoglu/kodluyoruzilkrepo.git
-'''
-
